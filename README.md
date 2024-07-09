@@ -1,5 +1,7 @@
 # Nextion_NX4024T032_countdown
-A program that show a countdown on a Nextion NX4024T032
+A program that show a countdown on a Nextion NX4024T032 touch display with serial port.
+
+Use with [Nextion editor](https://nextion.tech/nextion-editor/)
 
 ## Youtube video
 
